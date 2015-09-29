@@ -1,0 +1,8 @@
+src/* usr/share/huayra-tareas/src
+bin/huayra-tareas usr/bin/
+
+node_modules/* usr/share/huayra-tareas/node_modules/
+
+debian/huayra-tareas.desktop /usr/share/applications
+debian/huayra-tareas.png /usr/share/icons/hicolor/scalable/apps
+debian/application-htareas.png /usr/share/icons/hicolor/scalable/mimetypes

@@ -1,0 +1,13 @@
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+.hsidebar {
+	height:95%; 
+	width:25%; 
+	position:fixed;
+}
+
+.postit{
+	background-color:#F2F5A9;
+}

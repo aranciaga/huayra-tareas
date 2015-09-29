@@ -1,0 +1,13 @@
+Source: huayra-tareas
+Section: utilities
+Priority: extra
+Maintainer: Martín I. Aranciaga <rainbowtupperware@openmailbox.org>
+Build-Depends: debhelper (>= 8.0.0), g++, gcc
+Standards-Version: 3.9.3
+Homepage: http://github.com/rainbowintheshell/huayra-tareas
+
+Package: huayra-tareas
+Architecture: all
+Depends: ${misc:Depends}, node-webkit
+
+Description: Organiza tus pruebas y trabajos en una sola aplicación

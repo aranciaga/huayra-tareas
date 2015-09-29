@@ -1,0 +1,20 @@
+{
+  "name": "huayra-tareas",
+  "description": "Recordatorio para tareas",
+  "version": "0.0.1",
+  "main": "index.html",
+  "chromium-args": "--disable-gpu",
+  "window": {
+    "title": "Huayra Tareas",
+    "toolbar": false,
+    "icon": "icon.png",
+    "resizable": false,
+    "width": 800,
+    "height": 500
+  },
+  "node-remote": "<local>",
+  "dependencies": {
+    "express": "3.x",
+    "nedb": "~0.8.0"
+  }
+}

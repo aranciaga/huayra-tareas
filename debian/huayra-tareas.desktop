@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=0.0.1
+Name=Huayra Tareas
+Comment=Organiza tus pruebas y tareas para el colegio
+Exec=/usr/bin/huayra-tareas
+Terminal=false
+Type=Application
+Icon=huayra-tareas
+Categories=GNOME;GTK;Huayra;Utilities;
+MimeType=application/hmotion;
+Name[es_AR]=huayra-tareas.desktop

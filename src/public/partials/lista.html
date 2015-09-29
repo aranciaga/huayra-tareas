@@ -1,0 +1,20 @@
+<h2>Tareas</h2>
+
+<div ng-controller="Tareas">
+
+	<div ng-hide="tareas.length"class="uk-alert">No se han agregado tareas</div>
+
+	<div ng-repeat="tarea in tareas | filter:query">
+		<div class="uk-panel uk-panel-box uk-width-medium-1-1 postit">
+		    <div class="uk-panel-badge uk-badge">
+		    	{{ tarea.fecha }} 
+		    	<a ng-click="borrarTarea(tarea)" href="" class="uk-alert-close uk-close"></a>
+		    </div>
+		    <h3 class="uk-panel-title">{{ tarea.mensaje }}</h3>
+		    {{ tarea.mensaje }}
+		</div>
+		<br>
+	</div>
+
+
+</div>
