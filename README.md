@@ -7,5 +7,5 @@ Organiza tus tareas y pruebas en una sola aplicación
 
 ### Capturas de pantalla
 
-![http://i.imgur.com/UdUCKIl.png](http://i.imgur.com/UdUCKIl.png)
+![http://i.imgur.com/peX0AC2.png](http://i.imgur.com/peX0AC2.png)
 
