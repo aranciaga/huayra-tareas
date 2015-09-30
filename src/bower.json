@@ -1,0 +1,30 @@
+{
+  "name": "huayra-tareas",
+  "version": "0.0.1",
+  "homepage": "https://github.com/rainbowintheshell/huayra-tareas",
+  "authors": [
+    "Martín I. Aranciaga"
+  ],
+  "description": "Organizador de tareas y pruebas",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "huayra",
+    "tareas"
+  ],
+  "license": "GPLv3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "uikit": "~2.22.0",
+    "angular": "~1.4.7",
+    "angular-route": "~1.4.7",
+    "angular-resource": "~1.4.7"
+  }
+}
