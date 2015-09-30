@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('TareasApp', ['ngRoute', 'ngResource', 'ngAnimate'])
+angular.module('TareasApp', ['ngRoute', 'ngResource'])
   .config(['$routeProvider', function($routeProvider) {
      
       $routeProvider.when('/', { templateUrl: 'partials/bienvenida.html' });
