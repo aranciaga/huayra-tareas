@@ -10,16 +10,13 @@ NodeJS
 ```
 # curl -sL https://deb.nodesource.com/setup | bash -
 # aptitude install nodejs
+# npm install -g bower
 ```
 
-NPM
-
-```
-# curl https://www.npmjs.com/install.sh | sh
-```
 Finalmente
 
 ```
+git clone https://github.com/rainbowintheshell/huayra-tareas/
 cd huayra-tareas
 make 
 ```
