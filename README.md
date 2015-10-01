@@ -5,7 +5,7 @@ Organiza tus tareas y pruebas en una sola aplicación
 
 Se requiere NPM y NodeJS para instalar las dependencias del programa
 
-NodeJS
+En mate-terminal:
 
 ```
 # curl -sL https://deb.nodesource.com/setup | bash -
