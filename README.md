@@ -19,12 +19,14 @@ NPM
 ```
 Finalmente
 
-```make init```
+```
+cd huayra-tareas
+make 
+```
 
 Y para ejecutar
 
 ```
-cd huayra-tareas
 nw src
 ```
 
